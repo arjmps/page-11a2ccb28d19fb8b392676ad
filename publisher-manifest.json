@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "3c72d41a80e6582ebc3c3dd3",
+  "owner": "arjmps",
+  "repo": "page-11a2ccb28d19fb8b392676ad",
+  "title": "河豚",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "11a2ccb28d19fb8b392676ad",
+      "a": "河豚",
+      "b": "稳定全球clash加速器",
+      "entity": "河豚",
+      "brand": "河豚",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "097d65bcd94e779084b966d3cf9e792cd6e05bcac2775c0541a2329c9f798177",
+      "content": {
+        "primary_entity": "河豚",
+        "keyword1": "河豚",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_DESCRIPTION": "，围绕 Clash 客户端提供订阅配置与节点接入服务，按流量和设备数划分基础版、旗舰版与团队版。用户可根据设备数量、月度流量需求与预算选择套餐，在手机、电脑或路由器上导入订阅后即可使用，线路以稳定连接和流媒体访问为重点。",
+          "AI_HERO_SUBTITLE": "河豚加速器，按需选套餐",
+          "AI_HERO_INTRO": "河豚专注稳定全球网络加速，提供适配 Clash 的订阅方案，覆盖基础到团队级需求。套餐按流量和设备数区分，用户可依据日常使用场景选择月付或年付，快速完成客户端配置。",
+          "AI_VISUAL_TITLE": "河豚加速器套餐概览",
+          "AI_HIGHLIGHT_1": "支持 3 至 20 台设备",
+          "AI_HIGHLIGHT_2": "月付年付灵活可选",
+          "AI_HIGHLIGHT_3": "适配 Clash 订阅导入",
+          "AI_FEATURES_TITLE": "套餐特点与选择",
+          "AI_FEATURES_INTRO": "河豚套餐从流量、设备数和线路等级三个维度划分，方便按需匹配。",
+          "AI_FEATURE_TITLE_1": "套餐按流量分级",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB，旗舰版 300GB，团队版 1000GB，可按月度用量选择。",
+          "AI_FEATURE_TITLE_2": "设备数按套餐递增",
+          "AI_FEATURE_TEXT_2": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台，覆盖个人到团队场景。",
+          "AI_FEATURE_TITLE_3": "订阅周期灵活",
+          "AI_FEATURE_TEXT_3": "月付适合短期需求，年付价格更划算，基础版年付 ¥150，旗舰版 ¥350。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLIENTS_INTRO": "河豚支持 Clash 生态客户端，不同系统可选择对应版本。Windows 和 macOS 可用 Clash Verge 或 Clash for Windows，安卓可用 Clash Meta for Android，iOS 可用 Stash 等兼容客户端，路由器可部署 OpenClash。请根据设备系统选择适配版本并按说明配置订阅。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月支持 3 台设备与 100GB 流量，旗舰版 ¥35/月提供 300GB 流量与 5 台设备，团队版 ¥85/月覆盖 1000GB 与 20 台设备，均可按年付节省费用。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_GUIDE_INTRO": "选择套餐、查看适配要求、按客户端文档配置订阅即可。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_1": "根据设备数量和月流量需求，在基础版、旗舰版或团队版中选定方案。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认所用设备系统与客户端版本是否满足河豚订阅的配置条件。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "按照对应客户端文档导入订阅链接，完成节点选择与连接测试。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "选对套餐，稳定连接",
+          "AI_CLOSING_TEXT": "根据设备数与流量需求挑选河豚套餐，按客户端文档完成配置即可开始使用。",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、支持 3 台设备；旗舰版每月 300GB、支持 5 台设备；团队版每月 1000GB、支持 20 台设备。按年付分别约 ¥150、¥350、¥850。",
+          "AI_FAQ_ANSWER_2": "套餐内流量为高速流量，超出后速度会下降，不会额外扣费。若经常看高清视频或下载大文件，建议选择旗舰版或团队版。",
+          "AI_FAQ_ANSWER_3": "河豚提供常见桌面与移动客户端的订阅配置方式，具体支持的客户端类型可参考使用文档。不同系统版本导入步骤可能不同。",
+          "AI_FAQ_ANSWER_4": "可以同时在线设备数取决于所选套餐，基础版 3 台、旗舰版 5 台、团队版 20 台。多设备同时使用时建议选择更高档套餐。",
+          "AI_FAQ_ANSWER_5": "河豚提供 7x24 优先工单支持，旗舰版与团队版用户可获得更快的响应。支付与订阅周期可在购买页面查看。",
+          "AI_FAQ_QUESTION_1": "河豚各套餐的流量和设备数分别是多少？",
+          "AI_FAQ_QUESTION_2": "套餐流量用完后会怎样？",
+          "AI_FAQ_QUESTION_3": "河豚支持哪些客户端？",
+          "AI_FAQ_QUESTION_4": "能否在多台设备上同时使用同一账号？",
+          "AI_FAQ_QUESTION_5": "河豚提供怎样的支持服务？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "bgrjob.cn",
+    "host": "bgrjob.cn"
+  },
+  "file_hashes": {
+    "index.html": "eb9a6ed40f75ea8c1bc204557a7a166dd6339212bc38e2945c65d84c459e29e0",
+    "sitemap.xml": "ebe132cb829cfd3af5b879dbd24793e4eb14e9a7133d016dfaf32d87c9716d96",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "e91f1efb75633058e6fd490a60635752e56806ba70367cba0cb56062d3abbac2",
+    "robots.txt": "cfd01fc4619c275acd19004ddd15c2a5af5e1258a446a486f2cfc1dd141a6021",
+    "7d6cffbe71d20f0966f8b32309b1dbd4.txt": "2a4905947e3e46cbf79ec8be6eca7d962821e0505c1556e6e6d6e35cd13f0ec0"
+  },
+  "revision": "bfdadd6df98812273a3de2f8812f013e5d67e3fbe6af640f83652a2d9f52376a"
+}
